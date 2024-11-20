@@ -22,9 +22,9 @@ The organisers of this event and the University of Uyo nominates two **Fall Fest
 ### Python Fundamentals (Virtual):
 These sessions will cover essential Python skills relevant to quantum computing.
 
-**DAY 1 :** Python Training: Wednesday 20/11/2024, 7:00PM
+**DAY 1 :** Python Training(variables , list, and conditionals): Wednesday 20/11/2024, 7:00PM
 
-**DAY 2**: Python Training: Thursday 21/11/2024,  7:00PM
+**DAY 2**: Python Training(loops and Functions): Thursday 21/11/2024,  7:00PM
 
 **DAY 3:** Quantum talk and Basics of Classical vs quantum gates. Friday 22/11/2023,  7:00PM
 
